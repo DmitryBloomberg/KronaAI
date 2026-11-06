@@ -1,0 +1,2 @@
+# KronaAI
+Krona - ИИ модель 
